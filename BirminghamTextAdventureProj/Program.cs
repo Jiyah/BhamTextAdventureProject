@@ -6,6 +6,7 @@ namespace BirminghamTextAdventureProj
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi, I'm Cody the coder.);
             Console.WriteLine("What is your name?");
             string name = Console.ReadLine();
 
@@ -55,6 +56,10 @@ namespace BirminghamTextAdventureProj
                 {
                     Console.WriteLine("Ok thats fine. Let's laugh again some other time.");
                 }
+
+                Console.WriteLine("Thanks for listening to my jokes!");
+                Console.WriteLine("See you tommorow for hot new laughs!");
+
             }
 
         }
